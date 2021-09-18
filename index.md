@@ -6,15 +6,15 @@ I graduated from Zhejiang University, in 2019, with a major in mechatronic engin
 
 ### Publications
 
-***Elastic Tracker: A Spatio-temporal Trajectory Planner for Flexible Areial Tracking***, <u>**Jialin Ji**</u>, Neng Pan, Chao Xu, Fei Gao*, IEEE International Conference on Robotics and Automation (**ICRA 2022**), under review. [[preprint](https://arxiv.org/abs/2109.07111)]
+***Elastic Tracker: A Spatio-temporal Trajectory Planner for Flexible Areial Tracking***, **<u>Jialin Ji</u>**, Neng Pan, Chao Xu, Fei Gao*, IEEE International Conference on Robotics and Automation (**ICRA 2022**), under review. [[preprint](https://arxiv.org/abs/2109.07111)]
 
-***Autonomous Flights in Dynamic Environments with Onboard Vision***, Yingjian Wang, <u>**Jialin Ji**</u>, Qianhao Wang, Chao Xu, Fei Gao*, IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2021**). [[preprint](https://arxiv.org/abs/2103.05870)]
+***Autonomous Flights in Dynamic Environments with Onboard Vision***, Yingjian Wang, **<u>Jialin Ji</u>**, Qianhao Wang, Chao Xu, Fei Gao*, IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2021**). [[preprint](https://arxiv.org/abs/2103.05870)]
 
-***Visibility-aware Trajectory Optimization with Application to Aerial Tracking***, Qianhao Wang, Yuman Gao, <u>**Jialin Ji**</u>, Chao Xu, Fei Gao*, IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2021**). [[preprint](https://arxiv.org/abs/2103.06742)]
+***Visibility-aware Trajectory Optimization with Application to Aerial Tracking***, Qianhao Wang, Yuman Gao, **<u>Jialin Ji</u>**, Chao Xu, Fei Gao*, IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS 2021**). [[preprint](https://arxiv.org/abs/2103.06742)]
 
-***Mapless-Planner: A Robust and Fast Planning Framework for Aggressive Autonomous Flight without Map Fusion***, <u>**Jialin Ji**</u><sup>#</sup>, Zhepei Wang<sup>#</sup>, Yingjian Wang, Chao Xu, Fei Gao*, IEEE International Conference on Robotics and Automation (**ICRA 2021**). [[preprint](https://arxiv.org/abs/2011.03975)]
+***Mapless-Planner: A Robust and Fast Planning Framework for Aggressive Autonomous Flight without Map Fusion***, **<u>Jialin Ji</u>**<sup>#</sup>, Zhepei Wang<sup>#</sup>, Yingjian Wang, Chao Xu, Fei Gao*, IEEE International Conference on Robotics and Automation (**ICRA 2021**). [[preprint](https://arxiv.org/abs/2011.03975)]
 
-***CMPCC: Corridor based Model Predictive Contouring Control for Aggressive Drone Flight***, <u>**Jialin Ji**</u><sup>#</sup>, Xin Zhou<sup>#</sup>, Chao Xu, Fei Gao*, International Symposium on Experimental Robotics (**ISER 2020**). [[preprint](https://arxiv.org/abs/2007.03271)] [[code](https://github.com/ZJU-FAST-Lab/CMPCC)]
+***CMPCC: Corridor based Model Predictive Contouring Control for Aggressive Drone Flight***, **<u>Jialin Ji</u>**<sup>#</sup>, Xin Zhou<sup>#</sup>, Chao Xu, Fei Gao*, International Symposium on Experimental Robotics (**ISER 2020**). [[preprint](https://arxiv.org/abs/2007.03271)] [[code](https://github.com/ZJU-FAST-Lab/CMPCC)]
 
 
 

@@ -1,6 +1,6 @@
 ## Jialin Ji (纪佳林)
 
-Hello, I'm Jialin Ji, a master student in Automation under the supervision of [Chao Xu](https://person.zju.edu.cn/xu) and [Fei Gao](https://ustfei.com/), at the [FAST Lab](http://zju-fast.com/) from Zhejiang University, China, working on the motion planning and autonomous navigation for aerial robotics.
+Hello, I'm Jialin Ji, and I'm currently pursuing my PhD in Automation under the supervision of [Fei Gao](https://ustfei.com/), at the [FAST Lab](http://zju-fast.com/) from [Zhejiang University](https://www.zju.edu.cn/), China, working on the motion planning and autonomous navigation for aerial robotics.
 
 I graduated from Zhejiang University, in 2019, with a major in mechatronic engineering at [School of Mechanical Engineering](http://me.zju.edu.cn/) and a minor in ACEE (Advanced Honor Class of Engineering Education) at [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm).
 

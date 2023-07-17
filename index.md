@@ -8,7 +8,7 @@ I graduated from Beijing University of Science and Technology (USTB) , in 2019, 
 
 ***Vision-Based Autonomous Landing of a Hybrid Robot on a Powerline***, **Zhishuo Li**, Yunong Tian, Guodong Yang*, En Li, Yanfeng Zhang, Minghao Chen, Zize Liang, Min Tan, IEEE Transactions on Instrumentation and Measurement. 
 
-
+![test](C:\Users\11264\Desktop\fellow-lzs.github.io\assets\img\test.gif)
 
 
 

@@ -10,13 +10,13 @@ I graduated from Beijing University of Science and Technology (USTB) , in 2019, 
 
 We propose a complete solution for the autonomous landing of a hybrid robot on a powerline. First, a special feature extraction operator and the corresponding density-based feature recognition algorithm are designed to detect multiscale powerlines. Second, a binocular vision-based depth estimation method for the landing point in the powerline is described. Third, two spatio-temporal dictionaries are established to track the target one in multiple powerlines. Meanwhile, landing strategies and control methods are presented to achieve a stable landing task. Finally, a hybrid robot is designed to validate the proposed method.
 
-<img src=".\assets\img\landing.gif" alt="landing" style="zoom: 25%;" />
+<img src=".\assets\img\Autonomous_Landing.gif" alt="landing" style="zoom:50%;" />
 
 **Model-based Obstacle Crossing of a Hybrid Robot on a Powerline**
 
 We present a novel trajectory planning method for hybrid robots that fully consider the dynamic constraints, obstacle avoidance, inspection, energy efficiency and path smoothness. The path planning problem is transformed into a nonlinear programming optimization (NLP) problem, with the dynamic and geometric constraints as hard constraints, and the quality of inspection as cost function to optimize. 
 
-<img src=".\assets\img\landing.gif" alt="landing" style="zoom:25%;" />
+<img src=".\assets\img\Autonomous_Landing.gif" alt="landing" style="zoom: 50%;" />
 
 
 

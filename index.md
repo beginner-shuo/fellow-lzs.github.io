@@ -4,13 +4,31 @@ Hello, I'm Zhishuo Li, and I'm currently pursuing my PhD at the Institute of Aut
 
 I graduated from Beijing University of Science and Technology (USTB) , in 2019, with a major in Automation.
 
+### Selected
+
+**Vision-Based Autonomous Landing of a Hybrid Robot on a Powerline**
+
+We propose a complete solution for the autonomous landing of a hybrid robot on a powerline. First, a special feature extraction operator and the corresponding density-based feature recognition algorithm are designed to detect multiscale powerlines. Second, a binocular vision-based depth estimation method for the landing point in the powerline is described. Third, two spatio-temporal dictionaries are established to track the target one in multiple powerlines. Meanwhile, landing strategies and control methods are presented to achieve a stable landing task. Finally, a hybrid robot is designed to validate the proposed method.
+
+<img src="C:\Users\lenovo\Documents\WeChat Files\lzs844425334\FileStorage\File\2023-07\fellow-lzs.github.io\assets\img\landing.gif" alt="landing" style="zoom: 25%;" />
+
+**Model-based Obstacle Crossing of a Hybrid Robot on a Powerline**
+
+We present a novel trajectory planning method for hybrid robots that fully consider the dynamic constraints, obstacle avoidance, inspection, energy efficiency and path smoothness. The path planning problem is transformed into a nonlinear programming optimization (NLP) problem, with the dynamic and geometric constraints as hard constraints, and the quality of inspection as cost function to optimize. 
+
+<img src="C:\Users\lenovo\Documents\WeChat Files\lzs844425334\FileStorage\File\2023-07\fellow-lzs.github.io\assets\img\landing.gif" alt="landing" style="zoom:25%;" />
+
+
+
 ### Publications
 
 ***Vision-Based Autonomous Landing of a Hybrid Robot on a Powerline***, **Zhishuo Li**, Yunong Tian, Guodong Yang*, En Li, Yanfeng Zhang, Minghao Chen, Zize Liang, Min Tan, IEEE Transactions on Instrumentation and Measurement. 
 
-![test](.\assets\img\test.gif)
 
 
+
+
+**Environmental Monitoring System Based on Hybrid Mode Network Structure**, **Zhishuo Li**, Guodong Yang, En Li, Zize Liang, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 
 
 

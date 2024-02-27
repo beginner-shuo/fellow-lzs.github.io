@@ -22,9 +22,9 @@ We present a novel trajectory planning method for hybrid robots that fully consi
 
 ### Publications
 
-**Vision-Based Autonomous Landing of a Hybrid Robot on a Powerline**, **Zhishuo Li**, Yunong Tian, Guodong Yang*, En Li, Yanfeng Zhang, Minghao Chen, Zize Liang, Min Tan, IEEE Transactions on Instrumentation and Measurement (TIM, SCI-2, Accept). 
+**Vision-Based Autonomous Landing of a Hybrid Robot on a Powerline**, **Zhishuo Li**, Yunong Tian, Guodong Yang*, En Li, Yanfeng Zhang, Minghao Chen, Zize Liang, Min Tan, IEEE Transactions on Instrumentation and Measurement (TIM, SCI-2). 
 
-**Model-based Obstacle Crossing of a Hybrid Robot on a Powerline**, **Zhishuo Li**, Yunong Tian, Guodong Yang*, Yanfeng Zhang, En Li, Zize Liang, IEEE *Robotics and Automation Letters* (RA-L, SCI-2, Under review) 
+**Model-based Obstacle Crossing of a Hybrid Robot on a Powerline**, **Zhishuo Li**, Yunong Tian, Guodong Yang*, Yanfeng Zhang, En Li, Zize Liang, IEEE *Robotics and Automation Letters* (RA-L, SCI-2 with IROS) 
 
 **Environmental Monitoring System Based on Hybrid Mode Network Structure**, **Zhishuo Li**, Guodong Yang, En Li, Zize Liang, 2021 IEEE International Conference on Real-time Computing and Robotics (RCAR)
 

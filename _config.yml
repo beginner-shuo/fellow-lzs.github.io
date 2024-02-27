@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 
 title: [Zhishuo Li's Homepage]
 logo: assets/img/zhishuo.jpg
+description: [A short description of your site's purpose]
+show_downloads: false
+
